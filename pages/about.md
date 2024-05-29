@@ -1,5 +1,5 @@
 ---
-title: About
+title: Mujeres en Colombia siendo y haciendo arte en el siglo XX
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
@@ -13,6 +13,10 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
+
+Está pequeña colección muestra alguna de las obras de artistas mujeres de Colombia en el siglo XX que fueron reconocidas, no solo por su talento, sino por su destacar el género femenino dentro del gremio del arte contemporáneo.
+
+Estas imágenes se extrajeron de las páginas y colecciones de arte digital de algunos museos de Colombia; se puede identificar cada uno de ellos en el metadato denominado "Location".
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
