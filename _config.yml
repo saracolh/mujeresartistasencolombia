@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Obras de artistas colombianas en el siglo veinte
+title: Obras de artistas colombianas en el siglo XX
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Obras muejeres artistas de Colombia
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Esta colección contiene las obras de algunas reconocidas e importantes artistas mujeres de Colombia en el siglo veinte"
+description: "Esta colección contiene las obras de algunas reconocidas e importantes artistas mujeres de Colombia en el siglo XX"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Sara Colmenares
 
