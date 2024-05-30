@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://bga.uniandes.edu.co/items/show/1561" %}
+{% include feature/jumbotron.html objectid="https://cdn.colombia.com/sdi/2014/08/15/f4ef067c51304a4997d924c3e15cb992.jpg" %}
 
 {% include feature/nav-menu.html sections="Acerca de la Colección" %}
 
