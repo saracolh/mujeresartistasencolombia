@@ -18,4 +18,6 @@ Está pequeña colección muestra algunas obras de artistas mujeres de Colombia 
 
 Estas imágenes se extrajeron de las páginas web y colecciones digitales de arte de algunos museos de Colombia. Esto se puede identificar en cada imágen, específicamente en el metadato denominado "Ubicación".
 
+Actualmente la coleción cuenta con doce imagenes de las obras, pero se pretende seguir alimentándola y ajustar el tamaño de las imagenes.
+
 
