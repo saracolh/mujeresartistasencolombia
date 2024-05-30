@@ -11,8 +11,8 @@ custom-foot: js/browse-js.html
         <form class="" role="search" id="lunrSearch" onsubmit="submitFilter(); return false;">
             <div class="input-group input-group-lg">
                 <input type="text" class="form-control" id="filterTextBox" placeholder="Filtrar ... " aria-label="Buscar"> 
-                <button class="btn btn-success" type="submit" title="Filter items" alt="Search" id="filterButton" >Search</button>
-                <button class="btn btn-outline-secondary filter" onclick="resetFilter(); return false;" data-filter="">Reset</button>
+                <button class="btn btn-success" type="submit" title="Filter items" alt="Search" id="filterButton" >Buscar</button>
+                <button class="btn btn-outline-secondary filter" onclick="resetFilter(); return false;" data-filter="">Limpiar</button>
             </div>
         </form>
         <div class="h2" id="numberOf"></div>
@@ -26,6 +26,7 @@ custom-foot: js/browse-js.html
                 <button class="dropdown-item browse-sort-item active" data-filter="random">Orden Aleatorio</button>
                 <button class="dropdown-item browse-sort-item" data-filter="title">Título</button>
                 <button class="dropdown-item browse-sort-item" data-filter="date">Fecha</button>
+                <button class="dropdown-item browse-sort-item" data-filter="creator">Creadora</button>
                 {% assign sort_options = site.data.config-browse | where_exp: 'i','i.sort_name != nil' %}
                 {% for o in sort_options %}
                 <button class="dropdown-item browse-sort-item" data-filter="{{ o.field | escape }}">{{ o.sort_name }}</button>
@@ -36,7 +37,7 @@ custom-foot: js/browse-js.html
 </div>
 
 <div id="loadingIcon" class="text-center">
-    <div class="spinner-border text-dark" role="status"><span class="visually-hidden">Loading...</span></div>
+    <div class="spinner-border text-dark" role="status"><span class="visually-hidden">Cargando...</span></div>
 </div>
 
 <div class="row" id="browseItems"></div>
