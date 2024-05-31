@@ -16,7 +16,7 @@ credits: true
 
 Está pequeña colección muestra algunas obras de artistas mujeres de Colombia en el siglo XX que fueron reconocidas, no solo por su talento, sino por ser destacadas dentro del gremio del arte contemporáneo y representar al género femenino.
 
-Estas imagenes se extrajeron de las páginas web y colecciones digitales de arte de algunos museos de Colombia. Esto se puede identificar en cada imágen, específicamente en el metadato denominado "Ubicación".
+Estas imagenes se extrajeron de las páginas web y colecciones digitales de arte de algunos museos de Colombia. Esto se puede identificar en cada imagen, específicamente en el metadato denominado "Ubicación".
 
 Actualmente la coleción cuenta con doce imagenes de las obras, pero se pretende seguir alimentándola y ajustar el tamaño de las imagenes.
 
