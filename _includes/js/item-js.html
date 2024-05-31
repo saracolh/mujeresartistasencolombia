@@ -389,9 +389,9 @@ function displayItem(record, prev_id, next_id, compound_object) {
             <a id="next-button" class="next btn btn-lg btn-secondary" href="${forwardUrl}">&raquo;</a>
         </div>`;
     /* add bottom buttons to page */
-    document.getElementById("browse-buttons").innerHTML = `<a id="prev-button" class="btn btn-secondary" href="${backUrl}">&laquo; Previous</a>
+    document.getElementById("browse-buttons").innerHTML = `<a id="prev-button" class="btn btn-secondary" href="${backUrl}">&laquo; Anterior</a>
         <a class="btn btn-secondary" href="{{ '/browse.html' | relative_url }}">Volver a Navegar</a>
-        <a id="for-button" class="btn btn-secondary" href="${forwardUrl}">Next &raquo;</a>`;
+        <a id="for-button" class="btn btn-secondary" href="${forwardUrl}">Próximo &raquo;</a>`;
 
     /* add back forward key functionality for modal arrows */
     function leftModalArrowPressed() {
